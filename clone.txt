@@ -1,0 +1,9 @@
+git remote add origin https://github.com/Bestes22/testHub.git
+bajar git remoto
+
+git push origin master
+subir cambios a la rama (pedira logueo de github)
+
+git push origin master:main (rama principal de github) ; saldrá error primero se tiene qu ebajar los archivos
+con comando 
+git pull origin main --allow-unrelated-histories  
